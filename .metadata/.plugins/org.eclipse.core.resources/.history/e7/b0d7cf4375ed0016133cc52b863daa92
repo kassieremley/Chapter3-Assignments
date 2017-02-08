@@ -1,0 +1,42 @@
+/**
+ * 
+ */
+package orderingMenu;
+
+/**
+ * @author KR131457
+ *
+ */
+public class Tacos {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) 
+	{
+		// TODO Auto-generated method stub
+		tacoTruck();
+		
+		String burrito, taco, chimichango, churro, potatoOle, enchiladas, tamales, tacoSalad, fajita, tachidos, pop;
+		double burritoPrice = 0.99;
+		double tacoPrice = .50;
+		double popPrice = 1.99;
+		double secretItemRibs = 2.00;
+	
+	}
+	
+	
+	
+	public static void menu()
+	{
+		String burrito;
+		String Taco;
+		double tacoPrice = 0.99;
+		double burritoPrice = 1.99;
+	}
+	public static void salesTax ()
+	{
+		double salesTax = .075;
+	}
+
+}

@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package orderingMenu;
+
+/**
+ * @author KR131457
+ *
+ */
+public class Tacos {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
