@@ -7,14 +7,24 @@ package gameZonepage178;
  * @author kr131457
  *
  */
-public class Card {
-
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
+public class Card
+{
+   private char suit;
+   private int value;
+   public char getSuit()
+   {
+      return suit;
+   }
+   public int getValue()
+   {
+      return value;
+   }
+   public void setSuit(char s)
+   {
+      suit = s;
+   }
+   public void setValue(int v)
+   {
+      value = v;
+   }
 }

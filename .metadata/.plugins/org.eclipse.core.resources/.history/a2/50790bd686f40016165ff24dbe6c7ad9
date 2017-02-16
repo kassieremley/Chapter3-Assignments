@@ -1,0 +1,63 @@
+package DelgadosChoice;
+import java.util.Scanner;
+public class delgadosChoice {
+
+	public static void main(String[] args) 
+	{
+		Scanner input = new Scanner(System.in);
+		
+		double tacoPrice = 0.99;
+		double burritoPrice = 1.99;
+		double chipsAndQuesoPrice = 1.99;
+		double tacoSaladPrice = 3.00;
+		double fajitaPrice = 1.99;
+		double walkingTacoPrice = 1.99;
+		double lemonadePrice = 1.00;
+		double waterPrice = 1.00;
+		double sodaPrice = 2.00;
+		double beerPrice = 3.00;
+				
+	}
+	public static void menu()
+	{
+	 System.out.println();
+	 System.out.println();
+	 System.out.println();
+	 System.out.println();
+	 System.out.println("***************************************************");
+	 System.out.println("                Tacos price 0.99");
+	 System.out.println("                Burrito price 1.99");
+	 System.out.println("                Chips and Queso price 1.99");
+	 System.out.println("                Taco Salad price 3.00");
+	 System.out.println("                Fajita price 1.99");
+	 System.out.println("                Walking Taco price 1.99");
+	 System.out.println("                Lemonade price 1.00");
+	 System.out.println("                Water price 1.00");
+	 System.out.println("                Soda price 2.00");
+	 System.out.println("                Beer price 3.00");
+	 System.out.println("***************************************************");
+	 System.out.println();
+	}
+	 public static void tacoTruck()
+	 {
+		 System.out.println();
+		 System.out.println();
+		 System.out.println();
+		 System.out.println("*********************************************");
+		 System.out.println("*                                           *");
+		 System.out.println("*                                           *");
+		 System.out.println("*                                           *");
+		 System.out.println("*              Taco truck                   *");
+		 System.out.println("*                                             *");
+		 System.out.println("*                                              *");
+		 System.out.println("*                                               *");
+		 System.out.println("*                                              *");
+		 System.out.println("*                                             *");
+		 System.out.println("*                                            *");
+		 System.out.println("**********************************************");
+		 System.out.println("**                                          **");
+		 System.out.println("**                                          **");
+	
+	 }
+
+}
